@@ -15,7 +15,7 @@ Clone este repositório usando o Git ou baixe o arquivo ZIP.
 Navegue até o diretório do projeto no terminal.
 Instale as dependências do projeto executando o comando npm install.
 Inicie o servidor de desenvolvimento com o comando npm start.
-Abra seu navegador e acesse http://localhost:3000 para ver o jogo em ação.
+
 
 
 ## Contribuições
